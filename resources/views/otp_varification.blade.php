@@ -24,7 +24,7 @@
         @method('PATCH')
     <label for="otp">OTP</label>
     <input type="text" class="form-control" id="otp" name="otp">
-    <small id="otp" class="form-text text-muted">enter the otp that we sent to your email.</small>
+    <!-- <small id="otp" class="form-text text-muted">enter the otp that we sent to your email.</small> -->
      <input type="submit" class="btn btn-primary">
   </div>
 
